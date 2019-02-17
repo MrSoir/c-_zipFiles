@@ -1,0 +1,11 @@
+/home/hippo/workspace_VSCode/workspace_C#/zip_files/bin/Release/netcoreapp2.2/zip_files.deps.json
+/home/hippo/workspace_VSCode/workspace_C#/zip_files/bin/Release/netcoreapp2.2/zip_files.runtimeconfig.json
+/home/hippo/workspace_VSCode/workspace_C#/zip_files/bin/Release/netcoreapp2.2/zip_files.runtimeconfig.dev.json
+/home/hippo/workspace_VSCode/workspace_C#/zip_files/bin/Release/netcoreapp2.2/zip_files.dll
+/home/hippo/workspace_VSCode/workspace_C#/zip_files/bin/Release/netcoreapp2.2/zip_files.pdb
+/home/hippo/workspace_VSCode/workspace_C#/zip_files/obj/Release/netcoreapp2.2/zip_files.csprojAssemblyReference.cache
+/home/hippo/workspace_VSCode/workspace_C#/zip_files/obj/Release/netcoreapp2.2/zip_files.csproj.CoreCompileInputs.cache
+/home/hippo/workspace_VSCode/workspace_C#/zip_files/obj/Release/netcoreapp2.2/zip_files.AssemblyInfoInputs.cache
+/home/hippo/workspace_VSCode/workspace_C#/zip_files/obj/Release/netcoreapp2.2/zip_files.AssemblyInfo.cs
+/home/hippo/workspace_VSCode/workspace_C#/zip_files/obj/Release/netcoreapp2.2/zip_files.dll
+/home/hippo/workspace_VSCode/workspace_C#/zip_files/obj/Release/netcoreapp2.2/zip_files.pdb

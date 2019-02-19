@@ -22,6 +22,11 @@ namespace zip_project
             string tarZipPath = args[0];
             string sourceBaseDirectory = args[1];
 
+            if(sourceBaseDirectory.Equals("None"))
+            {
+                sourceBaseDirectory = "";
+            }
+
             var sourcePaths = new List<string>(args);
             sourcePaths.RemoveAt(0);
             sourcePaths.RemoveAt(0);
@@ -93,6 +98,11 @@ namespace zip_project
 
         static string genZipTargetPath(string absSourcePath, string zipBasePath)
         {
+            if(String.IsNullOrEmpty(zipBasePath))
+            {
+                return Path.GetFileName(absSourcePath);
+            }
+            
             if(absSourcePath.StartsWith(zipBasePath))
             {
                 string zipTarPath = absSourcePath.Substring(zipBasePath.Length);
